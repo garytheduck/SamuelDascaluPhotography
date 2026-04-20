@@ -2,12 +2,12 @@ export const site = {
   name: "Samuel Dascalu",
   tagline: "Photography & Videography",
   location: "Romania",
-  email: "hello@samueldascaluphotography.ro",
-  contactEmail: "samuel.dascalu@assist.ro", // Resend target
-  phone: "+40 000 000 000",
+  email: "samy.dascalu@gmail.com",
+  contactEmail: "samy.dascalu@gmail.com", // Resend target
+  phone: "+40 750 621 746",
   socials: {
-    instagram: "https://instagram.com/samueldascaluphotography",
-    youtube: "https://youtube.com/@samueldascaluphotography",
+    instagram: "https://instagram.com/dascalusamuelvideographer",
+    youtube: "https://www.youtube.com/@samueldascalu2317",
     vimeo: "https://vimeo.com/samueldascalu",
   },
   nav: [
